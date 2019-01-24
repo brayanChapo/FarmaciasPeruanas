@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: demo
+Implementation-Version: 1.0.2
+Built-By: Brayan
+Implementation-Vendor-Id: pe.com.chaponan.demo
+Build-Jdk: 1.8.0_171
+Implementation-URL: https://www.chaponan.com.pe
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
